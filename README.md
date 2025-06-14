@@ -41,6 +41,10 @@ The **Image Search App** is a responsive and modern web application that allows 
 ├── index.js         # JavaScript logic (API calls and DOM manipulation)
 ```
 
+## 🌐 Live Demo
+
+You can check out the working application here:  
+👉 [Live Demo](https://pari-image-search.netlify.app/)
 ---
 
 ## 🔑 API Key Setup
@@ -53,8 +57,3 @@ To run this project locally:
 
 ```javascript
 const accessKey = "YOUR_ACCESS_KEY_HERE";
----
-## 🌐 Live Demo
-
-You can check out the working application here:  
-👉 [Live Demo](https://pari-image-search.netlify.app/)
