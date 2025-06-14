@@ -34,12 +34,12 @@ The **Image Search App** is a responsive and modern web application that allows 
 ---
 
 ## 📁 Project Structure
+```
 📦 image-search-app/
 ├── index.html       # Main HTML structure
 ├── style.css        # Styling for the app (responsive + modern design)
 ├── index.js         # JavaScript logic (API calls and DOM manipulation)
-
-
+```
 
 ---
 
